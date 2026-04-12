@@ -1,31 +1,78 @@
-# Hi there, I'm Franck Nouama 👋
+<h1 align="center">Franck Nouama</h1>
+<h3 align="center">Principal Software Engineer · Distributed Systems · Cloud-Native Architectures</h3>
 
-I'm a **Principal Software Engineer** and technologist passionate about building robust, scalable, and high-performance distributed systems.
-
-## 🚀 About Me
-
-- 🛠️ **Languages:** Golang, Java, Scala  
-- 🦀 **Currently Exploring:** Rust  
-- ☁️ **Expertise:** Building cloud-native applications  
-- ⚡ **Architectures:** Event-driven, reactive systems & microservices  
-- 🌍 **Passion:** Distributed systems
-
-## 💡 Fun Fact
-
-I'm especially interested in building **reactive services** and exploring innovative approaches to modern software architectures.
-
-## 📈 What I Do
-
-I design, architect, and lead the development of complex software solutions. My expertise spans backend development, distributed systems, event-driven and cloud-native platforms, and microservices.
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francknouama/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/francknouama/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/francknouama">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-> “Striving for elegant solutions to complex problems.”
+### About Me
 
-<!--
-**francknouama/francknouama** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I design, architect, and lead the development of complex software solutions — from event-driven microservices to large-scale cloud-native platforms. I'm passionate about building robust, scalable, and high-performance distributed systems that solve real-world problems with elegant approaches.
+
+Currently exploring **Rust** to expand my systems programming toolkit.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+---
+
+### Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <strong>Distributed Systems</strong><br/>
+      Designing fault-tolerant, highly available architectures at scale
+    </td>
+    <td align="center" width="200">
+      <strong>Event-Driven</strong><br/>
+      Reactive services, CQRS, and event sourcing patterns
+    </td>
+    <td align="center" width="200">
+      <strong>Cloud-Native</strong><br/>
+      Containerized microservices with observability built in
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francknouama&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=francknouama&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francknouama&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Striving for elegant solutions to complex problems."</em>
+</p>
