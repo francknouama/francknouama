@@ -1,5 +1,10 @@
 <h1 align="center">Franck Nouama</h1>
-<h3 align="center">Principal Software Engineer · Distributed Systems · Cloud-Native Architectures</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Principal+Software+Engineer;Distributed+Systems+Architect;Event-Driven+%26+Reactive+Systems;Cloud-Native+%7C+Microservices+%7C+Scalability;Currently+exploring+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francknouama/">
@@ -7,6 +12,9 @@
   </a>
   <a href="https://github.com/francknouama">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/francknouama">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
@@ -64,15 +72,36 @@ Currently exploring **Rust** to expand my systems programming toolkit.
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francknouama&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=francknouama&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francknouama&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francknouama&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francknouama&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=francknouama&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=francknouama&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francknouama/francknouama/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francknouama/francknouama/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/francknouama/francknouama/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=francknouama&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <p align="center">
   <em>"Striving for elegant solutions to complex problems."</em>
